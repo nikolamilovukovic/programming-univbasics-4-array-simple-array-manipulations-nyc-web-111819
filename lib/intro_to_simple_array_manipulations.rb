@@ -45,7 +45,7 @@ def using_delete(instructors, steven)
 end
 
 def using_delete_at(famous_robots, 2)
-  2 = Robocop
+  2 = "Robocop"
   famous_robots.delete_at(2)
 end
   
